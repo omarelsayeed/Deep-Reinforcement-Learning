@@ -21,6 +21,9 @@ for more information about the environment please see my previous project on [Se
 ![My Robot](https://j.gifs.com/r2vgwL.gif)
 
 
+# Future work 
+iam really happy that iam starting to enter the field of RL as i was intimitated by it , for future work i will be implementing enhanced versions
+of DQN like double DQN and then Actor critic methods.
 
 # References 
 [Pybullet Documentation](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#)
