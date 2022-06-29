@@ -18,10 +18,7 @@ for more information about the environment please see my previous project on [Se
 # Results 
 - it took fairly long time to train but it converged after 45k steps and the agent then kept taking more rewards as it's balancing.
 ![image](https://user-images.githubusercontent.com/64399795/176384945-ae01df87-0cde-4df3-beba-6ef3e2d46476.png)
-
-[![MyRobot]([https://share.gifyoutube.com/KzB6Gb.gif](https://j.gifs.com/r2vgwL.gif))](https://j.gifs.com/r2vgwL.gif)
-![Test]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://j.gifs.com/r2vgwL.gif))
-
+![My Robot](https://j.gifs.com/r2vgwL.gif)
 
 
 
