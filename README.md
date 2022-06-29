@@ -17,8 +17,10 @@ for more information about the environment please see my previous project on [Se
 - The update is minizing the Temporal Difference between Q(s,a,w) and r+max over all actions( Q(s'))
 # Results 
 - it took fairly long time to train but it converged after 45k steps and the agent then kept taking more rewards as it's balancing.
-![download](https://user-images.githubusercontent.com/64399795/176384427-55226ddc-9820-4daa-b8d4-47b83298f22a.png)
-https://user-images.githubusercontent.com/64399795/176076175-71899c1c-df9b-47ee-9533-f10392daf3ce.mp4
+![image](https://user-images.githubusercontent.com/64399795/176384945-ae01df87-0cde-4df3-beba-6ef3e2d46476.png)
+https://user-images.githubusercontent.com/64399795/176385111-e523b01d-bec9-4a1b-b40c-21d5525cfcca.mp4
+
+
 
 
 # References 
