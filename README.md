@@ -25,7 +25,7 @@ for more information about the environment please see my previous project on [Se
 # Double Deep Q Networks
 Solving The Problem of maximization Bias in DQN
 
-![download](https://user-images.githubusercontent.com/64399795/176984599-3ad29361-65d7-4bf2-94b3-47b876059d4d.png)
+![image](https://user-images.githubusercontent.com/64399795/176984632-1e02f93e-a2a3-4739-bca7-d886b285e1a1.png)
 
 
 # References 
