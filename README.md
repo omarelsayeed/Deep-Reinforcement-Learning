@@ -12,7 +12,7 @@ for more information about the environment please see my previous project on [Se
 - run everycell sequintially and tune the parameters for fun!
 - You should have numpy , tensorflow , pybullet installed in order to run this project.
 
-# The Algorithm 
+# DQN 
 - DQN replaces the traditional Q table by a network that takes the states and try to predict the Q values for every action.
 - The update is minizing the Temporal Difference between Q(s,a,w) and r+max over all actions( Q(s'))
 # Results 
@@ -22,10 +22,11 @@ for more information about the environment please see my previous project on [Se
 
 ![My Robot](https://j.gifs.com/r2vgwL.gif)
 
+# Double Deep Q Networks
+Solving The Problem of maximization Bias in DQN
 
-# Future work 
-iam really happy that iam starting to enter the field of RL as i was intimitated by it , for future work i will be implementing enhanced versions
-of DQN like double DQN and then Actor critic methods.
+![image](https://user-images.githubusercontent.com/64399795/176984632-1e02f93e-a2a3-4739-bca7-d886b285e1a1.png)
+
 
 # References 
 [Pybullet Documentation](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#)
