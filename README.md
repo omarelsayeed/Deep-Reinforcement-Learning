@@ -23,11 +23,9 @@ for more information about the environment please see my previous project on [Se
 ![My Robot](https://j.gifs.com/r2vgwL.gif)
 
 # Double Deep Q Networks
+Solving The Problem of maximization Bias in DQN
 
-
-
-![1_23FPxAUno0CcxAoFyXC8KQ](https://user-images.githubusercontent.com/64399795/176983589-94bcd6ff-a68f-4f67-8453-ba05f287d21b.png)
-
+![download](https://user-images.githubusercontent.com/64399795/176984599-3ad29361-65d7-4bf2-94b3-47b876059d4d.png)
 
 
 # References 
